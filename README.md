@@ -1,2 +1,2 @@
 # Simple-To-do-list
-Simple To List using HTML CSS and JS
+Simple To-Do List using HTML CSS and JS
